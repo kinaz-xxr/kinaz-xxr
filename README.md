@@ -1,6 +1,6 @@
 <div id="user-content-toc" align="center">
   <ul>
-    <summary><h1 align="center"> Hi,  I'm < Alex/ > 👋 </h1></summary>
+    <summary><h1 align="center"> Hi,  I'm Dat 👋 </h1></summary>
   </ul>
 </div>
 <p align="center">
@@ -10,17 +10,10 @@
 - 👋 Hi, I’m Dat, an aspiring social entrepreneur interested in Web Applications and Data Science
 - 📚 I'm a second year computer science student at the University of Waterloo
 
-<h2> Technologies/Frameworks</h2>
-<p>
-    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-       <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-       <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-      <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</p>
-<p>
-    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-       <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-</p>
+### Skills & Experience
+- 👨🏻‍💻 **Experience**: Currently web dev @ <a href="https://uwpm.club/">UWPM</a>ls
+- 💻 **Programming Languages:** `C`, `C++`, `JavaScript`, `Python`  `HTML/CSS`, `Java`, `SQL`
+- ⚙️ **Framework / Development Tools:** `React`, `Node.js`, `Git`, `GitHub`, `Bootstrap`
   
 <h2> Connect with Me </h2>
    <a href="https://www.linkedin.com/in/datbui246/" target="_blank">
