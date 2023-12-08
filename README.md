@@ -8,9 +8,9 @@
 </p>
 
 ### Skills & Experience
-- 👨🏻‍💻 **Experience**: Technical Analyst @ <a href="https://www.ontario.ca/page/ministry-transportation">Ministry of Transportation</a> - Front-end Dev @ <a href="https://www.uwaterloopm.com/">UWPM</a>
-- 💻 **Programming Languages:** `C`, `C++`, `JavaScript`, `Python`  `HTML/CSS`, `Java`, `SQL`
-- ⚙️ **Framework / Development Tools:** `React`, `Node.js`, `Git`, `GitHub`, `Bootstrap`
+- 👨🏻‍💻 **Experience**: Technical Analyst @ <a href="https://www.ontario.ca/page/ministry-transportation">Ministry of Transportation</a>, Front-end Dev @ <a href="https://www.uwaterloopm.com/">UWPM</a>
+- 💻 **Programming Languages:** `JavaScript`, `Java`, `C`, `C++`, `Python`  `HTML/CSS`, `SQL`
+- ⚙️ **Framework / Development Tools:** `React`, `Spring`, `Angular`, `Node.js`, `Git`, `GitHub`, `Bootstrap`, `Tailwind CSS`
   
 <h2> Connect with Me </h2>
    <a href="https://www.linkedin.com/in/datbui246/" target="_blank">
