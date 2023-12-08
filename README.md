@@ -8,7 +8,7 @@
 </p>
 
 ### Skills & Experience
-- 👨🏻‍💻 **Experience**: Currently web dev @ <a href="https://uwpm.club/">UWPM</a>
+- 👨🏻‍💻 **Experience**: Technical Analyst @ <a href"https://www.ontario.ca/page/ministry-transportation">Ministry of Transportation</a> - Front-end Dev @ <a href="https://www.uwaterloopm.com/">UWPM</a>
 - 💻 **Programming Languages:** `C`, `C++`, `JavaScript`, `Python`  `HTML/CSS`, `Java`, `SQL`
 - ⚙️ **Framework / Development Tools:** `React`, `Node.js`, `Git`, `GitHub`, `Bootstrap`
   
